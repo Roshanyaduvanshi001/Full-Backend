@@ -1,0 +1,16 @@
+{
+  "name": "fullbackend",
+  "version": "1.0.0",
+  "description": "full backend with a mega project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Roshan Yaduvanshi",
+  "license": "ISC"
+}
